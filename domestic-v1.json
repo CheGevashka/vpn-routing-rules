@@ -36,6 +36,9 @@
         "yandex.net",
         "yandex.ru",
         "yastatic.net"
+      ],
+      "domain": [
+        "api.licard.com"
       ]
     }
   ]
