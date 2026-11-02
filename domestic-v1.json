@@ -1,0 +1,42 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "2gis.ru",
+        "alfabank.ru",
+        "avito.ru",
+        "cdek.ru",
+        "cdek.shopping",
+        "gosuslugi.ru",
+        "gpnbonus.ru",
+        "kuper.ru",
+        "lemanapro.ru",
+        "lukoil.ru",
+        "mail.ru",
+        "neftm.ru",
+        "ozon.com",
+        "ozon.ru",
+        "petrovich.ru",
+        "rosneft-azs.ru",
+        "samokat.ru",
+        "sber.ru",
+        "sberbank.ru",
+        "tatneft.ru",
+        "tbank.ru",
+        "teboil.ru",
+        "trassagk.ru",
+        "vk.com",
+        "vk.ru",
+        "vtb.ru",
+        "wb.ru",
+        "wildberries.ru",
+        "ya.ru",
+        "yandex.com",
+        "yandex.net",
+        "yandex.ru",
+        "yastatic.net"
+      ]
+    }
+  ]
+}
